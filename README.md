@@ -4,5 +4,5 @@ I'm a second year Computer Science student at the University of British Columbia
 
 - Pronouns: she/her
 - Languages: Java, web stuff (HTML/CSS/JavaScript)
-- Tech: Git/GitHub, Linux OS (mainly Ubuntu and CentOS), Windows Terminal, Docker, Figma, Notion
+- Tech: Git/GitHub, Linux (mainly Ubuntu and CentOS), Windows Terminal, Docker, Figma, Notion
 - Location: Kelowna BC, Canada
